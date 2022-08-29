@@ -6,7 +6,15 @@ Hi there , welcome to my profile 👋
 - 📫 How to reach me: https://www.linkedin.com/in/ersin-mandaci/
 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ersin-mandaci/)
+
+Connect with me:
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in//ersin-mandaci/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in//ersin-mandaci/#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+
+Languages and Tools:
+
 
 
 
