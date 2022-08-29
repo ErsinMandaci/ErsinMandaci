@@ -8,10 +8,7 @@ Hi there , welcome to my profile 👋
 
 
 Connect with me:
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in//ersin-mandaci/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in//ersin-mandaci/#gh-dark-mode-only)
-&nbsp;&nbsp;
+<a href="https://linkedin.com/in//ersin-mandaci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
 Languages and Tools:
