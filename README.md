@@ -4,7 +4,7 @@ Hi there , welcome to my profile 👋
 
 
 - 🔭 I’m currently working on mobile application development.
-- 🌱 I’m currently learning Flutter
+
 
 
 Connect with me:
