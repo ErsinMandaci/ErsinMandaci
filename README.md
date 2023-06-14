@@ -1,5 +1,7 @@
 Hi there , welcome to my profile 👋
 
+<img src="https://raw.githubusercontent.com/ErsinMandaci/ErsinMandaci/main/web.gif" width="auto">
+
 
 - 🔭 I’m currently working on mobile application development.
 - 🌱 I’m currently learning Flutter
